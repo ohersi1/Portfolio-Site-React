@@ -1,0 +1,22 @@
+a {
+	list-style: none;
+	text-decoration: none;
+	color: white;
+}
+
+.footer-p {
+  color: white;
+  padding: 13px 10px;
+}
+
+a p:hover {
+	color: var(--secondary-colour);
+}
+
+#footer {
+  border-top: 2px solid var(--secondary-colour);
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+
+

@@ -1,0 +1,49 @@
+.nav-links {
+	display: grid;
+	grid-template-columns: repeat(12, 1fr);
+	grid-template-rows: 1fr;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background-color: white;
+}
+
+.links {
+	display: flex;
+	grid-column: 12;
+	margin-top: 20px;
+}
+
+.links a {
+	list-style: none;
+	text-decoration: none;
+	color: black;
+	margin-right: 30px;
+  margin-bottom: 20px;
+	/* font-size: 1.1em; */
+	transition-duration: 0.2s;
+}
+
+.links a:hover {
+	border: 1px solid;
+	padding: 2px;
+	box-shadow: 3px 6px;
+}
+
+/* Small tablet styles */
+@media screen and (min-width: 620px) {
+}
+
+/* Large tablet and laptop styles */
+@media screen and (min-width: 960px) {
+	body {
+		font-size: 18px;
+	}
+}
+
+/* Desktop styles */
+@media screen and (min-width: 1200px) {
+	body {
+		font-size: 20px;
+	}
+}

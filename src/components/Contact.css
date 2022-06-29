@@ -1,0 +1,23 @@
+.contact {
+	text-align: center;
+	padding: 40px;
+	background-color: rgb(247, 247, 250);
+}
+
+.contact h1 {
+	margin-bottom: 30px;
+}
+
+.contact button {
+	color: white;
+	background-color: var(--secondary-colour);
+	border-radius: 12px;
+	padding: 8px 18px;
+	margin-bottom: 30px;
+	cursor: pointer;
+}
+
+.contact i {
+	font-size: 2.5em;
+	margin: 30px;
+}
