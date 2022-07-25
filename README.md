@@ -6,5 +6,6 @@ This is my portfolio website coded in React here is a screenshot of the page:
 
 Things I learned or practiced in this project:
 * Compartmentalising code so it's easier to organise and easier to find bugs later.
+* Importing all your components to one main file where it will all be rendered later.
 * 
 
