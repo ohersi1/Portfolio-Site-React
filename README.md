@@ -9,4 +9,5 @@ Things I learned or practiced in this project:
 * Importing all your components to one main file where it will all be rendered later.
 * How to import pictures in React.
 * Functional components (I have done a little bit of class-based components).
+* Import Font Awesome Icons using the i element so I can use the Github and LinkedIn icons.
 
